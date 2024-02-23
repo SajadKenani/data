@@ -4,27 +4,38 @@
         "name": "ياسمين",
         "job": "عاملة نظافة",
         "image": "https://i.ibb.co/xj6wgNn/1.jpg"
-    },
-   {
-        "name": "محمد",
-        "job": "عامل نظافة",
-        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
-    },
-   {
-        "name": "محمد",
-        "job": "عامل نظافة",
-        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
-    },
-   {
-        "name": "محمد",
-        "job": "عامل نظافة",
-        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
-    },
+    }
 
-{
+    ,
+
+   {
+        "name": "محمد",
+        "job": "عامل نظافة",
+        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
+    }
+
+    ,
+
+   {
+        "name": "محمد",
+        "job": "عامل نظافة",
+        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
+    }
+
+    ,
+
+   {
+        "name": "محمد",
+        "job": "عامل نظافة",
+        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
+    }
+
+    ,
+
+    {
         "name": "فاطمة",
         "job": "عاملة نظافة",
     "image":"https://i.ibb.co/CtrP4P6/IMG-20240222-202130.jpg"
-    },
+    }
 
 ]
