@@ -2,20 +2,26 @@
 [
 
     {
-        "name": "ياسمين",
-        "job": "عاملة نظافة",
+        "name_Arabic": "ياسمين",
+        "name_English": "Yasmin",
+        "job_Arabic": "عاملة نظافة",
+        "job_English": "Cleaner",
         "image": "https://i.ibb.co/xj6wgNn/1.jpg"
     }
     ,
     {
-        "name": "مريم",
-        "job": "عاملة نظافة",
+        "name_Arabic": "مريم",
+        "name_English": "Mariam",
+        "job_Arabic": "عاملة نظافة",
+        "job_English": "Cleaner",
         "image": "https://i.ibb.co/xj6wgNn/1.jpg"
     }
     ,
     {
-        "name": "فاطمة",
-        "job": "عاملة نظافة",
+        "name_Arabic": "سمر",
+        "name_English": "Samar",
+        "job_Arabic": "عاملة نظافة",
+        "job_English": "Cleaner",
         "image": "https://i.ibb.co/xj6wgNn/1.jpg"
     }
   
