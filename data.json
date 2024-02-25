@@ -1,74 +1,32 @@
 [
     {
         "name_Arabic": "ياسمين",
-        "name_English": "Yasmin",
         "job_Arabic": "عاملة نظافة",
-        "job_English": "Cleaner",
-        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
-    }
-    ,
-    {
-        "name_Arabic": "مريم",
-        "name_English": "Mariam",
-        "job_Arabic": "عاملة نظافة",
-        "job_English": "Cleaner",
-        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
-    }
-    ,
-    {
-        "name_Arabic": "سمر",
-        "name_English": "Samar",
-        "job_Arabic": "عاملة نظافة",
-        "job_English": "Cleaner",
-        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
-    }
-    ,
-    {
-        "name_Arabic": "ياسمين",
-        "name_English": "Yasmin",
-        "job_Arabic": "عاملة نظافة",
-        "job_English": "Cleaner",
-        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
-    }
-    ,
-    {
-        "name_Arabic": "مريم",
-        "name_English": "Mariam",
-        "job_Arabic": "عاملة نظافة",
-        "job_English": "Cleaner",
-        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
-    }
-    ,
-    {
-        "name_Arabic": "سمر",
-        "name_English": "Samar",
-        "job_Arabic": "عاملة نظافة",
-        "job_English": "Cleaner",
-        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
-    }
-    ,
-    {
-        "name_Arabic": "ياسمين",
-        "name_English": "Yasmin",
-        "job_Arabic": "عاملة نظافة",
-        "job_English": "Cleaner",
-        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
-    }
-    ,
-    {
-        "name_Arabic": "مريم",
-        "name_English": "Mariam",
-        "job_Arabic": "عاملة نظافة",
-        "job_English": "Cleaner",
-        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
-    }
-    ,
-    {
-        "name_Arabic": "سمر",
-        "name_English": "Samar",
-        "job_Arabic": "عاملة نظافة",
-        "job_English": "Cleaner",
-        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
-    }
 
+        "name_English": "Yasmin",
+        "job_English": "Cleaner",
+        
+        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
+    }
+    ,
+    {
+        "name_Arabic": "مريم",
+        "job_Arabic": "عاملة نظافة",
+        
+        "name_English": "Mariam",
+        "job_English": "Cleaner",
+        
+        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
+    }
+    ,
+    {
+        "name_Arabic": "سمر",
+        "job_Arabic": "عاملة نظافة",
+        
+        "name_English": "Samar",
+        "job_English": "Cleaner",
+        
+        "image": "https://i.ibb.co/xj6wgNn/1.jpg"
+    }
+   
 ]
